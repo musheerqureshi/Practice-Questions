@@ -63,6 +63,13 @@ public class Strings {
        // System.out.println(sb);
 
 
+        // input in StringBuilder
+
+        Scanner sc = new Scanner(System.in);
+        StringBuilder sb = new StringBuilder(sc.nextLine());
+        System.out.println(sb);
+
+
 
         // char at index 0
        // System.out.println(sb.charAt(0));
