@@ -65,9 +65,11 @@ public class Strings {
 
         // input in StringBuilder
 
+        /**
         Scanner sc = new Scanner(System.in);
         StringBuilder sb = new StringBuilder(sc.nextLine());
         System.out.println(sb);
+         **/
 
 
 
